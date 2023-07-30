@@ -1,0 +1,2 @@
+Model,MAE,MSE,RMSE,R2,RMSLE,MAPE,CHEMBLID,fingerprint,algorithm
+Light Gradient Boosting Machine,0.4604,0.5318,0.7292,0.841,0.1091,0.0826,CHEMBL248,rdk,lightgbm
